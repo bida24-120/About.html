@@ -80,7 +80,7 @@
 </html>
 <main>
 
-<p>If you'd like to get in touch, feel free to email me at <a href="mailto:example@example.com">example@example.com</a>.</p>
+<p>If you'd like to get in touch, feel free to email me at <a href="mailto:example@example.com">reabetswedineodikgang@gmail.com</a>.</p>
 
 </main>
 
