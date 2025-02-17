@@ -41,9 +41,55 @@
 <footer>
 
 <p>&copy; 2023 Your Name</p>
+<main>
+
+<p>Hi! I'm a beginner web developer learning how to use GitHub Pages.</p>
+
+<p>This is my first multi-page website, and I'm excited to share it with you!</p>
+
+</main>
+
+
+<footer>
+
+<p>&copy; 2023 Your Name</p>
 
 </footer>
 
 </body>
 
+</html>
+
+<main>
+
+<p>Hi! I'm a beginner web developer learning how to use GitHub Pages.</p>
+
+<p>This is my first multi-page website, and I'm excited to share it with you!</p>
+
+</main>
+
+
+<footer>
+
+<p>&copy; 2023 Your Name</p>
+
+</footer>
+
+</body>
+
+</html>
+<main>
+
+<p>If you'd like to get in touch, feel free to email me at <a href="mailto:example@example.com">example@example.com</a>.</p>
+
+</main>
+
+
+<footer>
+
+<p>&copy; 2025 Your Name</p>
+
+</footer>
+
+</body>
 </html>
