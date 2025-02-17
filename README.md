@@ -52,7 +52,7 @@
 
 <footer>
 
-<p>&copy; 2023 Your Name</p>
+<p>&copy; 2023 Reabetswe Dineo</p>
 
 </footer>
 
@@ -71,7 +71,7 @@
 
 <footer>
 
-<p>&copy; 2023 Your Name</p>
+<p>&copy; 2023 Reabetswe Dikgang</p>
 
 </footer>
 
