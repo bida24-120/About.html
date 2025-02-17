@@ -56,10 +56,6 @@
 
 </footer>
 
-</body>
-
-</html>
-
 <main>
 
 <p>Hi! I'm a beginner web developer learning how to use GitHub Pages.</p>
@@ -74,10 +70,6 @@
 <p>&copy; 2023 Reabetswe Dikgang</p>
 
 </footer>
-
-</body>
-
-</html>
 <main>
 
 <p>If you'd like to get in touch, feel free to email me at <a href="mailto:example@example.com">reabetswedineodikgang@gmail.com</a>.</p>
